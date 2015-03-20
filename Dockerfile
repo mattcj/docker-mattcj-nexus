@@ -1,4 +1,4 @@
-FROM sonatype/nexus:latest
+FROM sonatype/nexus:2.11.2
 
 ENV WEBAPP_CONTEXT_PATH=/nexus
 
