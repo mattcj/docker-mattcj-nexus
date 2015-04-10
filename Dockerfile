@@ -1,3 +1,3 @@
-FROM       dockerfile/java:oracle-java7
+FROM       sonatype/nexus
 MAINTAINER Matt Jenkins <matt@helmetsrequired.org>
 
